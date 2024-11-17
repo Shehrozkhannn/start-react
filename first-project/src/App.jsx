@@ -1,10 +1,9 @@
 import './App.css';
+import Chai from '../src/chai'
 
 function App() {
   return (
-    <div className="App">
-      <span>Hello!</span>
-    </div>
+    <Chai/>
   );
 }
 
